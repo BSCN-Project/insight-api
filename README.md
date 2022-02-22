@@ -21,9 +21,9 @@
 * [Stake](#stake-statistic)
 * [Total Supply](#total-supply-statistic)
 
-A BSCN blockchain REST and web socket API service for [Bscncore Node](https://github.com/bscnproject/bscncore-node).
+A BSCN blockchain REST and web socket API service for [Bscncore Node](https://github.com/BSCN-Project/bscncore-node).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/bscnproject/bscn-explorer.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/BSCN-Project/bscn-explorer.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ This is a backend-only service. If you're looking for the web frontend applicati
     ```  
 2. Install mongo https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/  
 
-3. Install bscn https://github.com/bscnproject/bscn - with ZMQ ! 
+3. Install bscn https://github.com/BSCN-Project/bscn - with ZMQ ! 
 
     ```bash
     # with ZMQ
@@ -44,13 +44,13 @@ This is a backend-only service. If you're looking for the web frontend applicati
 4. Install bscncore-node  
 
     ```bash
-    npm i https://github.com/bscnproject/bscncore-node.git#master
+    npm i https://github.com/BSCN-Project/bscncore-node.git#master
 
     $(npm bin)/bscncore-node create mynode
 
     cd mynode
 
-    $(npm bin)/bscncore-node install https://github.com/bscnproject/insight-api.git#master
+    $(npm bin)/bscncore-node install https://github.com/BSCN-Project/insight-api.git#master
     ```  
 5. Edit bscncore-node.json  
 
@@ -130,7 +130,7 @@ This is a backend-only service. If you're looking for the web frontend applicati
 
 There add-on service available to extend the functionality of Bscncore:
 
-- [BSCN Explorer](https://github.com/bscnproject/bscn-explorer)
+- [BSCN Explorer](https://github.com/BSCN-Project/bscn-explorer)
 
 ## Prerequisites
 

@@ -2,12 +2,12 @@
   "name": "bscn-insight-api",
   "description": "A BSCN blockchain REST and web socket API service for Bscncore Node.",
   "version": "0.0.1",
-  "repository": "https://github.com/bscnproject/insight-api.git",
+  "repository": "https://github.com/BSCN-Project/insight-api.git",
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/bscnproject/insight-api/issues"
+    "url": "https://github.com/BSCN-Project/insight-api/issues"
   },
-  "homepage": "https://github.com/bscnproject/insight-api",
+  "homepage": "https://github.com/BSCN-Project/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -39,7 +39,7 @@
     "moment": "^2.19.3",
     "mongoose": "^4.11.8",
     "morgan": "^1.7.0",
-    "bscncore-lib": "https://github.com/bscnproject/bscncore-lib.git#master",
+    "bscncore-lib": "https://github.com/BSCN-Project/bscncore-lib.git#master",
     "request": "^2.83.0",
     "web3": "^0.18.4"
   },
